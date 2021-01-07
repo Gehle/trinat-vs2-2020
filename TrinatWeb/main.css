@@ -1,0 +1,27 @@
+h2{
+    background-color: rgb(139, 125, 139);
+    color: #ffffff;
+    padding: 5px;
+}
+
+h1{
+    font-size: 65px;
+}
+
+/*class selector*/
+.highlight{
+    background-color: bisque;
+    color: rebeccapurple;
+}
+
+/*ID Selectors*/
+#navigation{
+    background-color: rebeccapurple;
+    color: chocolate;
+}
+
+p {
+    font-size: 20px;
+    width: 20em;
+    /*équivalent à width de l'élément = 100 pixels*/
+}
