@@ -6,7 +6,7 @@ Vorlage für Abgabe der Aufgaben verteilte Systeme 2 (HS2020)
 
 ## Praktikumsaufgaben
 
-Student: Emilie GEHL\ <br>
+Student: Emilie GEHL \ <br>
 Eingecheckten Aufgaben: <br> - 1) Socket: TippDesTagesClient und TippDesTagesServer\
                         - 2) Socket: ContestClient\
                         - 3) Threads01: Threads Übungen Teil 1 (Übung 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)\
